@@ -1,4 +1,4 @@
-## [1.0.0] - YYYY-MM-DD
+## [1.0.0] - 2026-05-23
 
 ### Added
 - RF01: CRUD Categorias com validação de exclusão (#1)
@@ -10,6 +10,6 @@
 - 3 Entidades: Categoria, Livro, Emprestimo
 - Service Layer com lógica emprestar/devolver
 - Branch protection configurado no main
-## [0.1.0] - YYYY-MM-DD
+## [0.1.0] - 2026-05-23
 ### Added
 - Configuração inicial do repositório
